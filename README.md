@@ -11,3 +11,4 @@
 - [8章](https://github.com/hiremasa/Introduction_to_multivariate_analysis/tree/main/chap8)
 - [9章](https://github.com/hiremasa/Introduction_to_multivariate_analysis/tree/main/chap9)
 
+多変量解析入門 小西 解答
